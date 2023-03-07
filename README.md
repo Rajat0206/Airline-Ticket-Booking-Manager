@@ -1,6 +1,6 @@
 # Airline-Ticket-Booking-Manager
 
-##It is a Microservice Based Project made using MVC Architecture following REST conventions.
+## It is a Microservice Based Project made using MVC Architecture following REST conventions.
 
 ### - [Booking Service](https://github.com/Rajat0206/AirTicketBookingService)
 ### - [Remainder Service](https://github.com/Rajat0206/ReminderService)
